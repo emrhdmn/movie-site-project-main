@@ -11,7 +11,7 @@
 - Responsive Design: Our project adapts to different screen sizes, which ensures that your project runs smoothly on various platforms such as desktops, tablets and mobile devices.
 
 ### `Deploy`
-
+https://emrhdmn.github.io/movie-site-project-main/
 
 ## `Screen`
 
